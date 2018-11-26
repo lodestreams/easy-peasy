@@ -15,7 +15,7 @@ npm-debug.log
 coverage
 
 # Build output
-dist
+# dist
 
 # Flow
 flow-coverage
